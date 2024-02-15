@@ -6,6 +6,7 @@ Permission Handling: The app handles location permissions gracefully, requesting
 Jetpack Compose UI: The user interface is built entirely using Jetpack Compose, offering a modern and declarative approach to UI development.
 
 How to Use:
+Add your API key in Manifest file
 Launch the app on your Android device.
 Grant the app permission to access your device's location if prompted.
 Click the "Get Location" button to retrieve the current latitude and longitude coordinates of your device.
