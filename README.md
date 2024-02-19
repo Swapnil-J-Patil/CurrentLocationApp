@@ -17,4 +17,4 @@ Jetpack Compose
 Google Map API
 Android Permissions API
 <br><br>
-![location](https://github.com/Swapnil-J-Patil/RoomDatabaseWithCameraX/assets/129786110/3ac06086-7d71-4bb3-8466-e80baecba709)
+![locationimage](https://github.com/Swapnil-J-Patil/CurrentLocationApp/assets/129786110/f863cd5c-530d-4970-9124-6bb6aa72d6ac)
